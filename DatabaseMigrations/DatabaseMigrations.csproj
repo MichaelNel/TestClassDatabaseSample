@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Remove="Schema\0001_initial_schema.sql"/>
+        <EmbeddedResource Include="Schema\0001_initial_schema.sql"/>
+    </ItemGroup>
+
+</Project>

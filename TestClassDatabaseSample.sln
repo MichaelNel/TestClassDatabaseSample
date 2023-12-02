@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClassDatabaseSample.Tests", "TestClassDatabaseSample.Tests\TestClassDatabaseSample.Tests.csproj", "{28873281-C37A-4BCA-8F07-90D3329C9555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseMigrations", "DatabaseMigrations\DatabaseMigrations.csproj", "{DCCAF4C5-0DD1-473E-83C3-C46C13492570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28873281-C37A-4BCA-8F07-90D3329C9555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28873281-C37A-4BCA-8F07-90D3329C9555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28873281-C37A-4BCA-8F07-90D3329C9555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28873281-C37A-4BCA-8F07-90D3329C9555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCAF4C5-0DD1-473E-83C3-C46C13492570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCAF4C5-0DD1-473E-83C3-C46C13492570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCAF4C5-0DD1-473E-83C3-C46C13492570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCAF4C5-0DD1-473E-83C3-C46C13492570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
